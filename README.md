@@ -10,6 +10,7 @@ What I'm going to do:
 # Notes
 
 1) About C++?
+
   a) Statically typed, free form, need to compile, middle level language
   b) Used by operating systems, system drivers, web browsers, games
     -Like Photoshop, Amazon, Facebook

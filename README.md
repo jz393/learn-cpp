@@ -19,8 +19,8 @@ About C++:
 
 Ways to use:
   - Through Xcode on MacOS
-    - Create: File > New > Project > Command Line Tool // Open With]
+    - Create: File > New > Project > Command Line Tool // Open With
     - Run: Product > Run // Cmd+R
   - Through text editor + command line 
-     - Compile: c++ <filename>.cpp
+     - Compile: c++ [filename].cpp
      - Execute: ./a.out

@@ -10,16 +10,15 @@ What I'm going to do:
 # Notes
 
 About C++:
-  1) Statically typed, free form, need to compile, middle level language
-  2) Used by operating systems, system drivers, web browsers, games e.g. Photoshop, Amazon, Facebook
-  3) Like an enhanced version of C
+  - Statically typed, free form, need to compile, middle level language
+  - Used by operating systems, system drivers, web browsers, games 
+      - e.g. Photoshop, Amazon, Facebook]
+  - Like an enhanced version of C
 
 Ways to use:
-  1) Through Xcode on MacOS
-    -Create: File > New > Project > Command Line Tool // Open With
-    -Run: Product > Run // Cmd+R
-  2) Through text editor + command line
-     -Compile: c++ <filename>.cpp
-     -Execute: ./a.out
-  
-  
+  - Through Xcode on MacOS
+    - Create: File > New > Project > Command Line Tool // Open With]
+    - Run: Product > Run // Cmd+R
+  - Through text editor + command line 
+     - Compile: c++ <filename>.cpp
+     - Execute: ./a.out

@@ -7,8 +7,6 @@ What I'm going to do:
   2) Leetcode: Convert a few problems I've already done in Python to C++. Also, complete some new problems in C++.
   3) Tensorflow: Aka what I'm going to be using C++ for during the summer. Since getting the basics down is more important,        I'll only work with it if I have time.   
 
-# Notes
-
 About C++:
   a) Statically typed, free form, need to compile, middle level language
   b) Used by operating systems, system drivers, web browsers, games

@@ -9,14 +9,13 @@ What I'm going to do:
 
 # Notes
 
-1) About C++?
-
+1) About C++:
   a) Statically typed, free form, need to compile, middle level language
   b) Used by operating systems, system drivers, web browsers, games
     -Like Photoshop, Amazon, Facebook
   c) Kinda like an enhanced version of C
 
-2) Ways to use
+2) Ways to use:
   a) Through Xcode on MacOS
     -Create: File > New > Project > Command Line Tool // Open With
     -Run: Product > Run // Cmd+R

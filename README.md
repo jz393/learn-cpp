@@ -1,8 +1,6 @@
 # About
 
 I have 2 weeks left of winter break, and I'm going to learn C++. I have to use it for my upcoming summer internship so I thought I'd get a head start before the spring semester takes off. Pretty much I'm going to code stuff (e.g. hello world, common data structures/algorithms, baseline OOP model) and keep it here.
-  
-Used for reference: https://www.programiz.com/cpp-programming/if-else
 
 # Notes
 

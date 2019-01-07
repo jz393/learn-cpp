@@ -1,11 +1,6 @@
 # About
 
-I have 2 weeks left of winter break, and I'm going to learn C++. I have to use it for my upcoming summer internship so I thought I'd get a head start before the spring semester takes off. 
-
-What I'm going to do:
-  1) This repo: Code stuff to get a feel for the language and keep it in this repo.
-  2) Leetcode: Do data structures/algorithm questions in C++.
-  3) Tensorflow: (Aka what I'm using C++ for during the summer) Look through the API if I have time. 
+I have 2 weeks left of winter break, and I'm going to learn C++. I have to use it for my upcoming summer internship so I thought I'd get a head start before the spring semester takes off. Pretty much I'm going to code stuff (e.g. hello world, common data structures/algorithms, baseline OOP model) and keep it here.
   
 Used for reference: https://www.programiz.com/cpp-programming/if-else
 

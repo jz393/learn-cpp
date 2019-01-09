@@ -24,5 +24,5 @@ Ways to use:
 2. Vectors and String Manipulation <arrays_str.cpp>
 3. Linear Classifier with Gradient Descent <grad_descent.cpp>
 4. Structs and Pointers (Binary Tree) <structs.cpp>
-    - Note: In C++, objects and structs are not always in the heap. They can be in the stack depending on how they are initialized.
+    - Note: In C++, objects and structs are not always in the heap (unlike Java). They can be in the stack depending on how they are initialized.
 5. Objects, Classes, and Inheritance <oop_classes.cpp>

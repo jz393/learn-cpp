@@ -2,6 +2,7 @@
 //  Copyright © 2019 Jane Zhang. All rights reserved.
 /*  This is an implementation of a binary tree data structure
 using structs and pointers in C++, as well as a search method.
+--> Leetcode question 700.
 */
 
 #include <iostream>

@@ -7,7 +7,7 @@ I have 2 weeks left of winter break, and I'm going to learn C++. I have to use i
 About C++:
   - Statically typed, free form, need to compile, middle level language
   - Used by operating systems, system drivers, web browsers, games 
-      - e.g. Photoshop, Amazon, Facebook]
+      - e.g. Photoshop, Amazon, Facebook
   - Like an enhanced version of C
 
 Ways to use:
@@ -22,6 +22,6 @@ Ways to use:
 # What I've done
 1. Hello World! <helloworld.cpp>
 2. Vectors and String Manipulation <arrays_str.cpp>
-3. Basic Gradient Descent <grad_descent.cpp>
+3. Linear Classifier with Gradient Descent <grad_descent.cpp>
 4. Structs and Pointers (Binary Tree) <structs.cpp>
-4. OOP and Inheritance
+5. Objects, Classes, and Inheritance <oop_classes.cpp>

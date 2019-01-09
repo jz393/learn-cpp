@@ -23,5 +23,5 @@ Ways to use:
 1. Hello World! <helloworld.cpp>
 2. Vectors and String Manipulation <arrays_str.cpp>
 3. Basic Gradient Descent <grad_descent.cpp>
-4. Understanding Structs (Binary Tree) <structs.cpp>
+4. Structs and Pointers (Binary Tree) <structs.cpp>
 4. OOP and Inheritance
